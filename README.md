@@ -6,13 +6,8 @@ Este diretório contém pequenos projetos desenvolvidos na disciplina de Program
 <p>
   Nesse projeto, tivemos que desenvolver um sistema de agenda, capaz de cadastrar contatos e gerenciá-los através de uma  interface básica.
 </p>
-<h2><a href="https://github.com/DevBrunoUchoa/UFCG-Programacao-2/tree/main/Coisa"> 🎬 <b>FilmNow </b></a></h2>
-
-<p>
-  Nesse projeto, tivemos que desenvolver um sistema de agenda, capaz de cadastrar contatos e gerenciá-los através de uma  interface básica.
-</p>
 <h2><a href="https://github.com/DevBrunoUchoa/UFCG-Programacao-2/tree/main/MrBet"> ⚽ <b>MrBet </b></a></h2>
 
 <p>
-  Nesse projeto, desenvolvemos um sistema de apostas, capaz de cadastrar times e campeonatos, além de .
+  Nesse projeto, desenvolvemos um sistema de apostas, capaz de cadastrar times e campeonatos.
 </p>
